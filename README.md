@@ -45,6 +45,16 @@ https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/mai
 https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/tenbinai_mobile.user.css
 ```
 
+### YouTube
+
+#### YouTube Scroll Stopper
+YouTubeの動画再生画面で画面のスクロールをできないようにするUserCSSです。他の拡張機能やUserScriptと併用することを想定しています。
+
+[インストール](https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/youtube_scroll_stopper.user.css)
+```
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/youtube_scroll_stopper.user.css
+```
+
 ## 注意
 このリポジトリのUserStyleはすべてサードパーティーによるもので、公式とは一切関係ありません。不具合が発生した場合には、公式に問い合わせる前にこのUserStyleを無効化して問題が解決するか確認してください。UserStyleの問題を公式に問い合わせることは避けてください。  
 利用規約等を確認し、問題ないと判断したもののみを公開していますが、自己責任での利用をお願いします。万が一公式から削除要請があった場合には、速やかに削除対応を行います。
