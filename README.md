@@ -1,6 +1,6 @@
-# daizu-s-css-list
+# AppGrove's UserStyles
 
-daizu-007が管理するUserCSSのリストです。Stylusでの利用を想定しています。
+AppGroveが管理するUserCSSのリストです。Stylusでの利用を想定しています。
 
 ## 使い方
 
@@ -22,9 +22,9 @@ daizu-007が管理するUserCSSのリストです。Stylusでの利用を想定�
 
 Gigazineをシンプルに表示するためのUserCSSです。寄付関連の要素を非表示にしたり、派手な色を抑えたりします。
 
-[インストール](https://raw.githubusercontent.com/daizu-007/daizu-s-css-list/refs/heads/main/stylus/gigazine.user.css)
+[インストール](https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/gigazine.user.css)
 ```
-https://raw.githubusercontent.com/daizu-007/daizu-s-css-list/refs/heads/main/stylus/gigazine.user.css
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/gigazine.user.css
 ```
 
 ### 天秤AI
@@ -32,19 +32,19 @@ https://raw.githubusercontent.com/daizu-007/daizu-s-css-list/refs/heads/main/sty
 #### TenbinAI Simplifier
 天秤AIのUIをシンプルにするためのUserCSSです。画面サイズに合わないページで見にくくならないよう調整します。
 
-[インストール](https://raw.githubusercontent.com/daizu-007/daizu-s-css-list/refs/heads/main/stylus/tenbinai.user.css)
+[インストール](https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/tenbinai.user.css)
 ```
-https://raw.githubusercontent.com/daizu-007/daizu-s-css-list/refs/heads/main/stylus/tenbinai.user.css
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/tenbinai.user.css
 ```
 
 #### TenbinAI Simplifier for Mobile
 モバイル版天秤AIのUIをシンプルにするためのUserCSSです。画面サイズに合わないページで見にくくならないよう調整します。
 
-[インストール](https://raw.githubusercontent.com/daizu-007/daizu-s-css-list/refs/heads/main/stylus/tenbinai_mobile.user.css)
+[インストール](https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/tenbinai_mobile.user.css)
 ```
-https://raw.githubusercontent.com/daizu-007/daizu-s-css-list/refs/heads/main/stylus/tenbinai_mobile.user.css
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/tenbinai_mobile.user.css
 ```
 
 ## 注意
-このリポジトリのUserCSSはすべて個人的に作成したもので、公式とは一切関係ありません。不具合が発生した場合には、公式に問い合わせる前にこのUserCSSを無効化して問題が解決するか確認してください。UserCSSの問題を公式に問い合わせることは避けてください。  
+このリポジトリのUserStyleはすべてサードパーティーによるもので、公式とは一切関係ありません。不具合が発生した場合には、公式に問い合わせる前にこのUserStyleを無効化して問題が解決するか確認してください。UserStyleの問題を公式に問い合わせることは避けてください。  
 利用規約等を確認し、問題ないと判断したもののみを公開していますが、自己責任での利用をお願いします。万が一公式から削除要請があった場合には、速やかに削除対応を行います。

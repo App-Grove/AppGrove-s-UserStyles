@@ -1,13 +1,13 @@
 /* ==UserStyle==
 @name Gigazine Simplifier
 @namespace io.github.daizu-007
-@version 1.0.1
+@version 1.0.2
 @description ニュースメディア「Gigazine」をシンプルにします。
-@author daizu-007
+@author AppGrove
 @license Apache-2.0
-@homepageURL https://github.com/daizu-007/daizu-s-css-list
-@supportURL https://github.com/daizu-007/daizu-s-css-list/issues
-@updateURL https://raw.githubusercontent.com/daizu-007/daizu-s-css-list/refs/heads/main/stylus/gigazine.user.css
+@homepageURL https://github.com/App-Grove/AppGrove-s-UserStyles
+@supportURL https://github.com/App-Grove/AppGrove-s-UserStyles/issues
+@updateURL https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/gigazine.user.css
 ==/UserStyle== */
 
 @-moz-document domain("gigazine.net") {
@@ -98,12 +98,12 @@
       h1.title {
         background-color: #4d4d4d !important;
       }
-      
+
       #latest > h3 {
         background-color: #4d4d4d !important;
         color: #FFFFFF !important;
       }
-      
+
       #latest {
         background-color: #000 !important;
       }
