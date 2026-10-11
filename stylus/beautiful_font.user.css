@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name Beautiful Font
+@namespace io.github.AppGrove
+@version 1.0.0
+@description デフォルトのフォントを使用するUIで、美しいフォントを使用するようにします。
+@author AppGrove
+@license Apache-2.0
+@homepageURL https://github.com/App-Grove/AppGrove-s-UserStyles
+@supportURL https://github.com/App-Grove/AppGrove-s-UserStyles/issues
+@updateURL https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/beautiful_font.user.css
+==/UserStyle== */
+
+* {
+  font-family: "Noto Sans JP", sans-serif;
+}
