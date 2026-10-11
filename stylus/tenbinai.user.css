@@ -48,6 +48,16 @@
     min-height: 100dvh !important;
     }
 
+    /* --- 下に余白ができないようにする --- */
+    .p-WorkspaceConsole,
+    .p-WorkspaceConsoleMenu,
+    .p-WorkspaceSideMenu,
+    .p-WorkspaceConsoleMain {
+        height: 100vh !important;   /* dvh 非対応時のフォールバック（上書きされる）*/
+        height: 100dvh !important;
+        min-height: 100dvh !important;
+    }
+
     /* ダークモード */
     @media (prefers-color-scheme: dark) {
         .f-ManagementFrameMain.jsx-7fb1c554da0ec8ad {
