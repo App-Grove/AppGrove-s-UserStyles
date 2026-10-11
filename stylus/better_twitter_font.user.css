@@ -19,6 +19,8 @@
   font-style: normal;
 }
 
-* {
-  font-family: "LINE Seed JP Local", "LINE Seed JP", "Noto Sans JP", sans-serif !important;
+@-moz-document regexp("^https?://(www\\.)?(twitter|x)\\.com(/.*)?$") {
+  * {
+    font-family: "LINE Seed JP Local", "LINE Seed JP", "Noto Sans JP", sans-serif !important;
+  }
 }
