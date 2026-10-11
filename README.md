@@ -58,7 +58,9 @@ https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/mai
 ### すべて
 
 #### Beautiful Font
-デフォルトのフォントを使用するUIで、美しいフォントを使用するようにします。
+デフォルトのフォントを使用するUIで、美しいフォントを使用するようにします。  
+システムにLINE Seed JPがインストールされている場合にはそれを使用し、ない場合はGoogle FontsからLINE Seed JPを取得します。Google Fontsにもアクセスできなければ、Noto Sans JPにフォールバックします。  
+Google Fontsへのリクエストが生じるため、プライバシー上の懸念がある場合には使用を避けてください。
 
 [インストール](https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/beautiful_font.user.css)
 ```
