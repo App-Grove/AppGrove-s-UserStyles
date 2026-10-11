@@ -45,6 +45,16 @@ https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/mai
 https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/tenbinai_mobile.user.css
 ```
 
+### Twitter(X)
+
+#### Better Font for Twitter
+Twitterのフォントをより美しいものに変更するUserCSSです。
+
+[インストール](https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/better_twitter_font.user.css)
+```
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/better_twitter_font.user.css
+```
+
 ### YouTube
 
 #### YouTube Scroll Stopper
