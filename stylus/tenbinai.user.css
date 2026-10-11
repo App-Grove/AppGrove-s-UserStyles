@@ -59,4 +59,8 @@
     [class*="ButtonBrand"][class*="sizeSmall"] {
         display: none !important;
     }
+    
+    button.p-WorkspaceConsoleMainBlankAccountNoticeButton {
+      display: none !important;
+    }
 }
