@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name Tenbin.ai Simplifier for Mobile
 @namespace io.github.daizu-007
-@version 1.0.2
+@version 1.0.3
 @description AIチャットアプリ「Tenbin.ai」のモバイル版をシンプルにします。
 @author AppGrove
 @license Apache-2.0
@@ -36,5 +36,9 @@
     /* ビジネスプランお試しボタン削除 */
     [class*="ButtonBrand"][class*="sizeSmall"] {
         display: none !important;
+    }
+
+    button.p-WorkspaceConsoleMainBlankAccountNoticeButton {
+      display: none !important;
     }
 }
