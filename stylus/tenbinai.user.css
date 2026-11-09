@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name Tenbin.ai Simplifier
 @namespace io.github.daizu-007
-@version 1.1.1
+@version 1.2.0
 @description AIチャットアプリ「Tenbin.ai」をシンプルにします。
 @author AppGrove
 @license Apache-2.0
@@ -70,7 +70,12 @@
         display: none !important;
     }
 
+    /* 画面中央のバナーを削除 */
+    .p-WorkspaceConsoleMainBlankInner {
+        display: none !important;
+    }
+
     button.p-WorkspaceConsoleMainBlankAccountNoticeButton {
-      display: none !important;
+        display: none !important;
     }
 }
