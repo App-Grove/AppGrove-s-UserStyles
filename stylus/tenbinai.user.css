@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name Tenbin.ai Simplifier
 @namespace io.github.daizu-007
-@version 1.1.0
+@version 1.1.1
 @description AIチャットアプリ「Tenbin.ai」をシンプルにします。
 @author AppGrove
 @license Apache-2.0
@@ -10,7 +10,7 @@
 @updateURL https://raw.githubusercontent.com/App-Grove/AppGrove-s-UserStyles/refs/heads/main/stylus/tenbinai.user.css
 ==/UserStyle== */
 
-@-moz-document regexp("^https?://(www\\.)?tenbin\\.ai(/.*)?$") {
+@-moz-document regexp("^https?://tenbin\\.ai/workspace/?(?:[?#].*)?$") {
     /* --- ヘッダー・フッター削除 --- */
     div.gmoGroupHeader,
     div.gmoGroupFooter,
